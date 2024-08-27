@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: Nene_play2Project
+  gitServerName: nene_github_personal
+  gitUrl: https://github.com/nehagcs053/Nene_play2Project
+  gitUsername: nehagcs053
+  gitBranch: main
