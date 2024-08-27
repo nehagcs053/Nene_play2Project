@@ -1,0 +1,14 @@
+{
+  "name": "BookstoreConnector",
+  "description": "get the books details",
+  "triggers": [],
+  "actions": [
+    "/v1/about"
+  ],
+  "version": 1,
+  "auth_type": "basic",
+  "doc_link": "",
+  "appId": "e4cc88dc-8bde-4027-b565-ee3c5cd64480",
+  "guid": "137f1894-6f0e-43ab-ae1e-90df5a77692a",
+  "connectionUid": "bookstore-connector-sF-nRpCUu"
+}

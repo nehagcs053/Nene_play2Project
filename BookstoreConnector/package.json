@@ -1,0 +1,9 @@
+{
+  "name": "bookstoreconnector",
+  "version": "1.0.0",
+  "description": "get the books details",
+  "dependencies": {
+    "request": "2.55.0",
+    "@webmethodsio/cli-sdk": "*"
+  }
+}
